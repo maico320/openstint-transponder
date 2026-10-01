@@ -12,6 +12,8 @@ RC (surface) racing transponder with ATtiny816/1616/3216, featuring:
 
 **Related projects:** [OpenStint decoder](https://github.com/zsellera/openstint) | [Loop Amplifier](https://github.com/zsellera/openstint-preamp)
 
+**3D-printable cases:** [GreenCatDude](https://www.thingiverse.com/thing:7417074)
+
 JLCPCB manifactures and assembles 5 panels of 2x4s, grand total of 40 pcs, for less than $200, including taxes and shipping (Hungary 27% VAT, no tariff, 2026 May).
 
 <img width="800" alt="openstint transponder v2" src="https://github.com/user-attachments/assets/66f0dce3-32b3-4e4d-bd2c-afecf5770aea" />
